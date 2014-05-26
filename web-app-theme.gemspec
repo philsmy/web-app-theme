@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = '>= 1.3.6'
 
-  s.add_runtime_dependency 'rails', '~> 4.0.1'
+  s.add_runtime_dependency 'rails', '~> 4.1.0'
   s.add_runtime_dependency 'thor'
 
   s.add_development_dependency 'bundler'
